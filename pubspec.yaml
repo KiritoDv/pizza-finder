@@ -11,17 +11,13 @@ dependencies:
   flutter:
     sdk: flutter
   provider: ^5.0.0
-  get: ^4.1.1
   path_provider: ^2.0.0
   http: ^0.13.0
-  image_picker: ^0.7.4
-  share: ^0.6.5+4
   google_fonts: ^2.0.0
   path: ^1.8.0
   async:
   hive: ^2.0.2
   hive_flutter: ^1.0.0
-  cupertino_icons: ^1.0.2
   intl: ^0.16.1
   url_launcher: ^6.0.3
 
